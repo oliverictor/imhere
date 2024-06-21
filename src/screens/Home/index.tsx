@@ -5,7 +5,7 @@ export function Home() {
     return (
         <View style={styles.container}>
             <Text style={styles.eventName}>
-                Nome do evento
+                Nome do eventos
             </Text >
             <Text style={styles.eventDate}>
                 Sexta, 4 de novembro de 2022
